@@ -9,8 +9,8 @@
 POSSUO CONHECIMENTO | ESTOU ESTUDANDO     | TENHO INTERESSE
 :------:            | :------:            | :------:
 HTML                | MySQL               | Docker
-CSS                 | Integração c/ Github| Infraestrutura e Cloud Storage
-Javascript          | Python              | 
+CSS                 | Python              | Infraestrutura e Cloud Storage
+Javascript          |                     | 
 Git/GitHub          |                     | 
 
 
